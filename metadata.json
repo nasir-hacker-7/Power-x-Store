@@ -1,0 +1,7 @@
+{
+  "name": "Power Modz - Virtual Store",
+  "description": "Premium Virtual Numbers Store with Admin Panel and Payment Verification",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
